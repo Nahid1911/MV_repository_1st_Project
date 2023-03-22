@@ -1,10 +1,10 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Times New Roman', Times, serif;
-  }
-  
-  .h1_style {
-    color: darkgreen;
-  }
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.h1_style {
+  color: darkgreen;
+}
