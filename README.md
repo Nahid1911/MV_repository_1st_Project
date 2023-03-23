@@ -15,6 +15,7 @@
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -57,6 +58,14 @@
 - GitHub: [@githubhandle](https://github.com/Nahid1911)
 - Twitter: [@twitterhandle](https://twitter.com/Nahid1911)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/nahidraihan/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- **[JavaScript]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
