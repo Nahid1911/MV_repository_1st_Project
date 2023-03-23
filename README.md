@@ -14,6 +14,9 @@
   - [🛠 Built With](#built-with)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Run tests](#run-tests)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -35,8 +38,6 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://google.com)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -44,6 +45,31 @@
 ## 💻 Getting Started <a name="getting-started"></a>
 
 > You can see the linking arrangement between HTML and CSS, how to assign class and design it with CSS.
+
+### Setup
+
+Clone this repository to your desired folder:
+
+Example commands:
+  cd my-folder
+  https://github.com/Nahid1911/MV_repository_1st_Project.git
+
+### Prerequisites
+
+In order to run this project you need to have some knowledge on:
+ 1. HTML
+ 2. git and github
+ 3. Linter
+
+### Run tests
+
+To run tests, run the following command:
+
+Example command:
+
+```sh
+  npx stylelint "**/*.{css,scss}"
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
